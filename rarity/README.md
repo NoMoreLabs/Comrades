@@ -1,6 +1,6 @@
 # Rarity Analysis
 
-This folder contains rarity analysis, attribute count breakdowns, and trait statistics for the Call Data Comrades NFT collection.
+This folder contains rarity analysis, attribute count breakdowns, and trait statistics for the Call Data Comrades collection on Ethscriptions.
 
 ## Contents
 

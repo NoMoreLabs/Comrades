@@ -1,6 +1,6 @@
 # Call-Data-Comrades
 
-This repository contains metadata, rarity analysis, and trait statistics for the Call Data Comrades NFT collection.
+This repository contains metadata, rarity analysis, and trait statistics for the Call Data Comrades collection on Ethscriptions.
 
 ## Repository Structure
 

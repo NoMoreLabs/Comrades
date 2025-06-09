@@ -1,6 +1,6 @@
 # Metadata
 
-This folder contains the core metadata and a visual overview for the Call Data Comrades NFT collection.
+This folder contains the core metadata and a visual overview for the Call Data Comrades collection on Ethscriptions.
 
 ## Contents
 
