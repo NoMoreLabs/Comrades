@@ -1,14 +1,14 @@
 {
   "name": "Comrades of the Dead",
-  "logo_image": "data:image/png;base64,PLACEHOLDER",
-  "banner_image": "data:image/png;base64,PLACEHOLDER",
+  "logo_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAAXNSR0IArs4c6QAAAVlJREFUSA1jEKIxYKCx+UIjxAJjBmFMlMugRkzwEhVERgzC4QxyyMYZMwhT0wIDBiE046hjQZkJ95ki1TNFqvpgC8pMuCHoTJEqxIKTcYrI3sLKxhdEEAv0JRh0GQRzGdT0JRj0JRggglS2QJOJL45ZnoYWqLBy+bNKQJx/Mk6R+kGkwsNqxcODacH0qV3Tp3b9+38BGaHFBFFxoCbAZCjEimZBOIMc3IIp/gxT/Bkg1pBmQZUD/5kiVUjEQkh4EBkzCCNbwMAAtYNkC8pMuCGGYpLIFsA9QRMLyImDMhPuKgf+kzmKeHxAUUYbtQAW1zjzAc2DSEhICGIHrkh2l2Ob6c0NcyhOGqcPMC2AFHb6EgzmUkx2Miy+CuxL/KlqwckcRYgdNLEA7nxa+cBXgf1kHC19cKZIlR4WQKyhSRxAjEYjzySr4kyeMAkSkilmcU1RYYeZDwapBQAXAfYEyhRNpAAAAABJRU5ErkJggg==",
+  "banner_image": "",
   "total_supply": 666,
-  "slug": "comrades-of-the-dead",
-  "description": "Ghostly Citizens of Block City",
+  "slug": "comrades-otd",
+  "description": "",
   "website_url": "https://nomorelabs.xyz",
   "twitter_url": "https://x.com/nomorelabs",
   "discord_url": "https://discord.gg/wuZJsXzdPQ",
-  "background_color": "#000000",
+  "background_color": "#121212",
   "collection_items": [
     {
       "sha": "74346e792ad1a521257072b0f23c5a8bbbaeb7165b262afcfbc6d6b2b0a2fb68",
