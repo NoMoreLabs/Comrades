@@ -1,19 +1,24 @@
 # Metadata
 
-This folder contains the core metadata and a visual overview for the Call Data Comrades collection on Ethscriptions.
+This folder contains the core metadata and visual overviews for the Call Data Comrades and Comrades of the Dead collections on Ethscriptions.
 
 ## Contents
 
+### Call Data Comrades (CDC)
 - **call-data-comrades.json**  
-  Complete metadata for all comrades in the collection, including traits and attributes.
+  Complete metadata for all 9,959 comrades in the Call Data Comrades collection, including traits and attributes.
 
-- **comrades-grid.png**  
-  Visual grid displaying all comrades in the collection.
+- **cdc-grid.png**  
+  Visual grid displaying all Call Data Comrades.
+
+### Comrades of the Dead (COTD)
+- **comrades-of-the-dead.json**  
+  Complete metadata for all 666 comrades in the Comrades of the Dead collection, including traits and attributes.
 
 ## Usage
 
-- Use `call-data-comrades.json` for integrating Call Data Comrades into applications, marketplaces, or for analysis.
-- Reference `comrades-grid.png` for a quick visual overview or for presentation purposes.
+- Use the JSON files for integrating comrades into applications, marketplaces, or for analysis.
+- Reference the grid images for quick visual overviews or presentation purposes.
 
 ## License
 
