@@ -122,7 +122,7 @@
             "index": 4,
             "sha": "99796b4aca21b7aae70b346f1be6700db0ef00df46e447d03ce70f39776005ff",
             "name": "Comrade #4",
-            "description": "chopper",
+            "description": "Chopper",
             "attributes": [
                 {
                     "trait_type": "Background",
@@ -138,7 +138,7 @@
                 },
                 {
                     "trait_type": "Head",
-                    "value": "Dark chopper Hat"
+                    "value": "Dark Chopper Hat"
                 },
                 {
                     "trait_type": "Eyes",
