@@ -7,8 +7,8 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
 ### Call Data Comrades (CDC)
 - **9,959 total comrades** across different tiers:
   - 9,819 generic
-  - 52 honorary
-  - 49 legends
+  - 54 honorary
+  - 50 legends
   - 21 nyan comrades
 
 ### Comrades of the Dead (COTD)
@@ -17,15 +17,21 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
 ## Repository Structure
 
 - **art/**
-  - `comrades_32px/`: 32x32 pixel comrade images with backgrounds (CDC)
-    - `generic/` (9,819 images), `honorary/` (52 images), `legends/` (49 images), `nyan/` (21 images)
-  - `comrades_32px_noBG/`: 32x32 pixel comrade images without backgrounds (CDC)
-  - `comrades_800px/`: 800x800 pixel comrade images with backgrounds (CDC)
-  - `comrades_800px_noBG/`: 800x800 pixel comrade images without backgrounds (CDC)
-  - `comrades_trait_layers/`: Individual trait layer assets organized by category (CDC)
-    - `01_Relics/`, `02_Eyes/`, `03_Mouth/`, `04_Audio Indexer Derivtations/`
-    - `05_Head/`, `06_Cloths/`, `07_Skin Stuff/`, `08_Type/`
-    - `09_Extras/`, `10_Backgrounds/`, `11_Animated Traits/`
+  - **Call Data Comrades (CDC):**
+    - `cdc_32px/`: 32x32 pixel comrade images with backgrounds
+      - `generic/` (9,819 images), `honorary/` (54 images), `legends/` (50 images), `nyan/` (21 images)
+    - `cdc_32px_noBG/`: 32x32 pixel comrade images without backgrounds
+    - `cdc_800px/`: 800x800 pixel comrade images with backgrounds
+    - `cdc_800px_noBG/`: 800x800 pixel comrade images without backgrounds
+    - `cdc_trait_layers/`: Individual trait layer assets organized by category
+      - `01_Relics/`, `02_Eyes/`, `03_Mouth/`, `04_Audio Indexer Derivtations/`
+      - `05_Head/`, `06_Cloths/`, `07_Skin Stuff/`, `08_Type/`
+      - `09_Extras/`, `10_Backgrounds/`, `11_Animated Traits/`
+  - **Comrades of the Dead (COTD):**
+    - `cotd_32px/`: 32x32 pixel comrade images (666 images)
+    - `cotd_32px_noBG/`: 32x32 pixel comrade images without backgrounds (666 images)
+    - `cotd_800px/`: 800x800 pixel comrade images (666 images)
+    - `cotd_800px_noBG/`: 800x800 pixel comrade images without backgrounds (666 images)
 
 - **metadata/**
   - `call-data-comrades.json`: Metadata for all Call Data Comrades (CDC).
@@ -46,7 +52,9 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
 
 ## Contents
 
-- **Artwork**: Complete collection of Call Data Comrades images in multiple formats and sizes (32px and 800px), both with and without backgrounds, plus individual trait layers for custom rendering.
+- **Artwork**: 
+  - Complete collection of Call Data Comrades images in multiple formats and sizes (32px and 800px), both with and without backgrounds, plus individual trait layers for custom rendering.
+  - Comrades of the Dead images in 32px and 800px formats, both with and without backgrounds.
 - **Metadata**: Comprehensive data for each comrade in both collections (CDC and COTD), including traits and attributes.
 - **Rarity Analysis**: In-depth breakdown of attribute counts, trait frequencies, and rarity scores for both collections.
 - **Trait Statistics**: Frequency and rarity scores for all trait values, grouped by trait type.
@@ -54,7 +62,7 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
 ## Naming Convention
 
 To keep files organized and easily identifiable:
-- **`cdc-`** prefix: Call Data Comrades (9,959 items)
+- **`cdc-`** prefix: Call Data Comrades (9,962 items)
 - **`cotd-`** prefix: Comrades of the Dead (666 items)
 
 ## Usage

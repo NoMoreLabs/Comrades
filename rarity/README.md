@@ -4,7 +4,7 @@ This folder contains rarity analysis, attribute count breakdowns, and trait stat
 
 ## Naming Convention
 
-- Files prefixed with **`cdc-`** relate to the **Call Data Comrades** collection (9,959 items)
+- Files prefixed with **`cdc-`** relate to the **Call Data Comrades** collection (9,962 items)
 - Files prefixed with **`cotd-`** relate to the **Comrades of the Dead** collection (666 items)
 
 ## Contents

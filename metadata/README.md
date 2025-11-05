@@ -6,7 +6,7 @@ This folder contains the core metadata and visual overviews for the Call Data Co
 
 ### Call Data Comrades (CDC)
 - **call-data-comrades.json**  
-  Complete metadata for all 9,959 comrades in the Call Data Comrades collection, including traits and attributes.
+  Complete metadata for all 9,962 comrades in the Call Data Comrades collection, including traits and attributes.
 
 - **cdc-grid.png**  
   Visual grid displaying all Call Data Comrades.
