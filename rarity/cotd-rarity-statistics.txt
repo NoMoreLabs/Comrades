@@ -71,10 +71,10 @@ Mouth - Lick it | rarity score = 73.33 | frequency = 9 / 660
 Eyes - Zoned out | rarity score = 66.00 | frequency = 10 / 660
 Head - Spooky Void Bat Hat | rarity score = 66.00 | frequency = 10 / 660
 Cloths - McD Uniform | rarity score = 66.00 | frequency = 10 / 660
-Head - Skull Bandana | rarity score = 66.00 | frequency = 10 / 660
 Eyes - Skull Plate | rarity score = 66.00 | frequency = 10 / 660
 Head - Spooky Headwind | rarity score = 60.00 | frequency = 11 / 660
 Eyes - Spooky MEV Bot Protector Orange | rarity score = 60.00 | frequency = 11 / 660
+Head - Skull Bandana | rarity score = 60.00 | frequency = 11 / 660
 Cloths - General of the Adeptus Cuborum | rarity score = 60.00 | frequency = 11 / 660
 Cloths - Hard Base Uniform | rarity score = 60.00 | frequency = 11 / 660
 Type - Human Melanin Level Goth | rarity score = 60.00 | frequency = 11 / 660
@@ -137,10 +137,10 @@ Head - Fake Devil Horns | rarity score = 27.50 | frequency = 24 / 660
 Eyes - Sugar Rush | rarity score = 27.50 | frequency = 24 / 660
 Eyes - Death Cross Mask Mark II | rarity score = 26.40 | frequency = 25 / 660
 Eyes - Insufferable Eye Extension | rarity score = 25.38 | frequency = 26 / 660
-Mouth - Throat of Darkness | rarity score = 24.44 | frequency = 27 / 660
 Cloths - Black Hoodie | rarity score = 24.44 | frequency = 27 / 660
-Eyes - Zombie eyes | rarity score = 24.44 | frequency = 27 / 660
+Mouth - Throat of Darkness | rarity score = 23.57 | frequency = 28 / 660
 Type - Sugar Skullz | rarity score = 23.57 | frequency = 28 / 660
+Eyes - Zombie eyes | rarity score = 23.57 | frequency = 28 / 660
 Eyes - Retarded Blood Mugger | rarity score = 23.57 | frequency = 28 / 660
 Mouth - Candy Crusher 500 Kids Edition | rarity score = 22.76 | frequency = 29 / 660
 Eyes - Hollowed | rarity score = 22.76 | frequency = 29 / 660
@@ -154,7 +154,7 @@ Type - Purple People | rarity score = 18.86 | frequency = 35 / 660
 Ghostly Apparitions - Floorbagorb | rarity score = 17.84 | frequency = 37 / 660
 Type - Pumpkin Suit | rarity score = 16.10 | frequency = 41 / 660
 Cloths - Pumped Pumpkin Warrior | rarity score = 15.71 | frequency = 42 / 660
-Cloths - Dark Knight Costume | rarity score = 15.00 | frequency = 44 / 660
+Cloths - Dark Knight Costume | rarity score = 14.67 | frequency = 45 / 660
 Type - Smashed Pumpkin | rarity score = 14.35 | frequency = 46 / 660
 Ghostly Apparitions - Ghost | rarity score = 14.04 | frequency = 47 / 660
 Background - Pumpin Pumpkin | rarity score = 13.75 | frequency = 48 / 660

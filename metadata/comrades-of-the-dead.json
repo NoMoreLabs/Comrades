@@ -38,7 +38,7 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 0
                 }
             ]
@@ -79,7 +79,7 @@
                     "value": "Four Stripes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 0
                 }
             ]
@@ -112,7 +112,7 @@
                     "value": "Staff of Clairvoyance"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 0
                 }
             ]
@@ -145,7 +145,7 @@
                     "value": "Candy Mugger Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 0
                 }
             ]
@@ -182,7 +182,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 0
                 }
             ]
@@ -223,8 +223,8 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 305
+                    "trait_type": "Rarity",
+                    "value": 306
                 }
             ]
         },
@@ -252,8 +252,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 597
+                    "trait_type": "Rarity",
+                    "value": 598
                 }
             ]
         },
@@ -285,8 +285,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 474
+                    "trait_type": "Rarity",
+                    "value": 473
                 }
             ]
         },
@@ -310,8 +310,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 639
+                    "trait_type": "Rarity",
+                    "value": 640
                 }
             ]
         },
@@ -347,7 +347,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 71
                 }
             ]
@@ -376,8 +376,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 574
+                    "trait_type": "Rarity",
+                    "value": 575
                 }
             ]
         },
@@ -409,7 +409,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 211
                 }
             ]
@@ -446,7 +446,7 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 24
                 }
             ]
@@ -479,8 +479,8 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 218
+                    "trait_type": "Rarity",
+                    "value": 217
                 }
             ]
         },
@@ -512,8 +512,8 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 452
+                    "trait_type": "Rarity",
+                    "value": 453
                 }
             ]
         },
@@ -549,7 +549,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 125
                 }
             ]
@@ -582,7 +582,7 @@
                     "value": "Big Shades with Spook Enhancements"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 4
                 }
             ]
@@ -615,8 +615,8 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 186
+                    "trait_type": "Rarity",
+                    "value": 184
                 }
             ]
         },
@@ -652,7 +652,7 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 279
                 }
             ]
@@ -677,7 +677,7 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 623
                 }
             ]
@@ -710,8 +710,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 582
+                    "trait_type": "Rarity",
+                    "value": 583
                 }
             ]
         },
@@ -747,7 +747,7 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 335
                 }
             ]
@@ -776,8 +776,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 643
+                    "trait_type": "Rarity",
+                    "value": 644
                 }
             ]
         },
@@ -809,7 +809,7 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 109
                 }
             ]
@@ -838,8 +838,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 572
+                    "trait_type": "Rarity",
+                    "value": 573
                 }
             ]
         },
@@ -871,7 +871,7 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 455
                 }
             ]
@@ -904,8 +904,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 602
+                    "trait_type": "Rarity",
+                    "value": 603
                 }
             ]
         },
@@ -937,8 +937,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 209
+                    "trait_type": "Rarity",
+                    "value": 208
                 }
             ]
         },
@@ -970,8 +970,8 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 587
+                    "trait_type": "Rarity",
+                    "value": 588
                 }
             ]
         },
@@ -1003,7 +1003,7 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 343
                 }
             ]
@@ -1036,8 +1036,8 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 189
+                    "trait_type": "Rarity",
+                    "value": 188
                 }
             ]
         },
@@ -1069,8 +1069,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 631
+                    "trait_type": "Rarity",
+                    "value": 633
                 }
             ]
         },
@@ -1102,7 +1102,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 21
                 }
             ]
@@ -1135,7 +1135,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 116
                 }
             ]
@@ -1168,8 +1168,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 296
+                    "trait_type": "Rarity",
+                    "value": 295
                 }
             ]
         },
@@ -1205,8 +1205,8 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 155
+                    "trait_type": "Rarity",
+                    "value": 157
                 }
             ]
         },
@@ -1234,8 +1234,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 603
+                    "trait_type": "Rarity",
+                    "value": 604
                 }
             ]
         },
@@ -1275,7 +1275,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 39
                 }
             ]
@@ -1308,8 +1308,8 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 348
+                    "trait_type": "Rarity",
+                    "value": 349
                 }
             ]
         },
@@ -1341,7 +1341,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 396
                 }
             ]
@@ -1366,7 +1366,7 @@
                     "value": "Freddy Sweater"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 614
                 }
             ]
@@ -1399,8 +1399,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 526
+                    "trait_type": "Rarity",
+                    "value": 525
                 }
             ]
         },
@@ -1432,8 +1432,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 375
+                    "trait_type": "Rarity",
+                    "value": 376
                 }
             ]
         },
@@ -1465,8 +1465,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 549
+                    "trait_type": "Rarity",
+                    "value": 550
                 }
             ]
         },
@@ -1494,7 +1494,7 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 391
                 }
             ]
@@ -1531,7 +1531,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 114
                 }
             ]
@@ -1556,8 +1556,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 648
+                    "trait_type": "Rarity",
+                    "value": 649
                 }
             ]
         },
@@ -1593,7 +1593,7 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 43
                 }
             ]
@@ -1622,7 +1622,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 404
                 }
             ]
@@ -1651,8 +1651,8 @@
                     "value": "Evil Wizard Hat"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 513
+                    "trait_type": "Rarity",
+                    "value": 514
                 }
             ]
         },
@@ -1680,8 +1680,8 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 511
+                    "trait_type": "Rarity",
+                    "value": 512
                 }
             ]
         },
@@ -1709,7 +1709,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 466
                 }
             ]
@@ -1746,7 +1746,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 65
                 }
             ]
@@ -1779,8 +1779,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 314
+                    "trait_type": "Rarity",
+                    "value": 313
                 }
             ]
         },
@@ -1808,8 +1808,8 @@
                     "value": "Candy Crusher 500 Kids Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 517
+                    "trait_type": "Rarity",
+                    "value": 537
                 }
             ]
         },
@@ -1841,7 +1841,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 425
                 }
             ]
@@ -1874,7 +1874,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 464
                 }
             ]
@@ -1907,7 +1907,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 80
                 }
             ]
@@ -1940,7 +1940,7 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 280
                 }
             ]
@@ -1969,8 +1969,8 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 563
+                    "trait_type": "Rarity",
+                    "value": 564
                 }
             ]
         },
@@ -2002,8 +2002,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 447
+                    "trait_type": "Rarity",
+                    "value": 448
                 }
             ]
         },
@@ -2035,8 +2035,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 468
+                    "trait_type": "Rarity",
+                    "value": 467
                 }
             ]
         },
@@ -2068,8 +2068,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 569
+                    "trait_type": "Rarity",
+                    "value": 570
                 }
             ]
         },
@@ -2093,7 +2093,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 660
                 }
             ]
@@ -2130,8 +2130,8 @@
                     "value": "Fancy Hair black"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 387
+                    "trait_type": "Rarity",
+                    "value": 392
                 }
             ]
         },
@@ -2155,8 +2155,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 653
+                    "trait_type": "Rarity",
+                    "value": 654
                 }
             ]
         },
@@ -2188,8 +2188,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 325
+                    "trait_type": "Rarity",
+                    "value": 342
                 }
             ]
         },
@@ -2221,7 +2221,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 163
                 }
             ]
@@ -2254,7 +2254,7 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 250
                 }
             ]
@@ -2291,7 +2291,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 123
                 }
             ]
@@ -2320,7 +2320,7 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 278
                 }
             ]
@@ -2357,8 +2357,8 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 287
+                    "trait_type": "Rarity",
+                    "value": 288
                 }
             ]
         },
@@ -2390,8 +2390,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 142
+                    "trait_type": "Rarity",
+                    "value": 141
                 }
             ]
         },
@@ -2423,8 +2423,8 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 590
+                    "trait_type": "Rarity",
+                    "value": 591
                 }
             ]
         },
@@ -2456,7 +2456,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 23
                 }
             ]
@@ -2493,7 +2493,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 177
                 }
             ]
@@ -2526,7 +2526,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 542
                 }
             ]
@@ -2559,8 +2559,8 @@
                     "value": "Mohawk of Blood"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 427
+                    "trait_type": "Rarity",
+                    "value": 428
                 }
             ]
         },
@@ -2592,8 +2592,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 150
+                    "trait_type": "Rarity",
+                    "value": 149
                 }
             ]
         },
@@ -2629,8 +2629,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 120
+                    "trait_type": "Rarity",
+                    "value": 122
                 }
             ]
         },
@@ -2662,7 +2662,7 @@
                     "value": "Purr People Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 7
                 }
             ]
@@ -2695,8 +2695,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 502
+                    "trait_type": "Rarity",
+                    "value": 503
                 }
             ]
         },
@@ -2724,8 +2724,8 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 499
+                    "trait_type": "Rarity",
+                    "value": 500
                 }
             ]
         },
@@ -2765,7 +2765,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 14
                 }
             ]
@@ -2798,7 +2798,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 554
                 }
             ]
@@ -2839,7 +2839,7 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 107
                 }
             ]
@@ -2876,7 +2876,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 133
                 }
             ]
@@ -2905,8 +2905,8 @@
                     "value": "Bonus Eye"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 256
+                    "trait_type": "Rarity",
+                    "value": 257
                 }
             ]
         },
@@ -2942,7 +2942,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 407
                 }
             ]
@@ -2975,8 +2975,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 193
+                    "trait_type": "Rarity",
+                    "value": 191
                 }
             ]
         },
@@ -3008,7 +3008,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 541
                 }
             ]
@@ -3049,7 +3049,7 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 48
                 }
             ]
@@ -3082,7 +3082,7 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 67
                 }
             ]
@@ -3115,8 +3115,8 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 443
+                    "trait_type": "Rarity",
+                    "value": 444
                 }
             ]
         },
@@ -3148,8 +3148,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 459
+                    "trait_type": "Rarity",
+                    "value": 458
                 }
             ]
         },
@@ -3181,8 +3181,8 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 270
+                    "trait_type": "Rarity",
+                    "value": 291
                 }
             ]
         },
@@ -3210,8 +3210,8 @@
                     "value": "Watching Interview with the Vampire"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 184
+                    "trait_type": "Rarity",
+                    "value": 183
                 }
             ]
         },
@@ -3243,7 +3243,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 247
                 }
             ]
@@ -3276,7 +3276,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 118
                 }
             ]
@@ -3301,8 +3301,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 586
+                    "trait_type": "Rarity",
+                    "value": 587
                 }
             ]
         },
@@ -3338,7 +3338,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 354
                 }
             ]
@@ -3371,8 +3371,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 303
+                    "trait_type": "Rarity",
+                    "value": 301
                 }
             ]
         },
@@ -3412,7 +3412,7 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 130
                 }
             ]
@@ -3453,15 +3453,15 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 613
+                    "trait_type": "Rarity",
+                    "value": 262
                 }
             ]
         },
         {
-            "id": "0x428adb53722c548aeae409f5e808721f447fe568a7cc372a5698927059c9150d",
+            "id": "0x6efc6be0aed79f042d55c5600ff4936ee134e4ec6de0eafd7c9bcca1cb84c6de",
             "index": 105,
-            "sha": "6fe2431ab692e58ba947c842de5ad5712471e2d26357a4e7cf53204a240d8d15",
+            "sha": "649e48febf5fb1a23d6db9a14e54f2a47b0b4f6d1c684f5106c991a0e7053671",
             "name": "Comrade #105",
             "description": "",
             "attributes": [
@@ -3478,8 +3478,12 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 656
+                    "trait_type": "Cloths",
+                    "value": "Dark Knight Costume"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": 639
                 }
             ]
         },
@@ -3519,7 +3523,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 75
                 }
             ]
@@ -3552,7 +3556,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 330
                 }
             ]
@@ -3585,8 +3589,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 399
+                    "trait_type": "Rarity",
+                    "value": 400
                 }
             ]
         },
@@ -3626,7 +3630,7 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 60
                 }
             ]
@@ -3651,8 +3655,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 651
+                    "trait_type": "Rarity",
+                    "value": 652
                 }
             ]
         },
@@ -3680,7 +3684,7 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 344
                 }
             ]
@@ -3713,8 +3717,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 368
+                    "trait_type": "Rarity",
+                    "value": 374
                 }
             ]
         },
@@ -3746,7 +3750,7 @@
                     "value": "Zombie Eye Patch"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 111
                 }
             ]
@@ -3779,8 +3783,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 577
+                    "trait_type": "Rarity",
+                    "value": 578
                 }
             ]
         },
@@ -3820,7 +3824,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 99
                 }
             ]
@@ -3853,7 +3857,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 486
                 }
             ]
@@ -3882,8 +3886,8 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 471
+                    "trait_type": "Rarity",
+                    "value": 475
                 }
             ]
         },
@@ -3915,7 +3919,7 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 204
                 }
             ]
@@ -3940,8 +3944,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 595
+                    "trait_type": "Rarity",
+                    "value": 596
                 }
             ]
         },
@@ -3977,8 +3981,8 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 242
+                    "trait_type": "Rarity",
+                    "value": 243
                 }
             ]
         },
@@ -4014,7 +4018,7 @@
                     "value": "Straight af"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 161
                 }
             ]
@@ -4047,7 +4051,7 @@
                     "value": "Zombie Eye Patch"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 50
                 }
             ]
@@ -4084,8 +4088,8 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 240
+                    "trait_type": "Rarity",
+                    "value": 239
                 }
             ]
         },
@@ -4109,8 +4113,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 644
+                    "trait_type": "Rarity",
+                    "value": 645
                 }
             ]
         },
@@ -4138,8 +4142,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 312
+                    "trait_type": "Rarity",
+                    "value": 314
                 }
             ]
         },
@@ -4175,7 +4179,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 167
                 }
             ]
@@ -4208,7 +4212,7 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 171
                 }
             ]
@@ -4241,8 +4245,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 365
+                    "trait_type": "Rarity",
+                    "value": 366
                 }
             ]
         },
@@ -4278,7 +4282,7 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 333
                 }
             ]
@@ -4311,8 +4315,8 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 147
+                    "trait_type": "Rarity",
+                    "value": 145
                 }
             ]
         },
@@ -4344,8 +4348,8 @@
                     "value": "Purple Paranoia"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 221
+                    "trait_type": "Rarity",
+                    "value": 220
                 }
             ]
         },
@@ -4373,8 +4377,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 632
+                    "trait_type": "Rarity",
+                    "value": 631
                 }
             ]
         },
@@ -4398,7 +4402,7 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 638
                 }
             ]
@@ -4427,8 +4431,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 600
+                    "trait_type": "Rarity",
+                    "value": 601
                 }
             ]
         },
@@ -4456,8 +4460,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 576
+                    "trait_type": "Rarity",
+                    "value": 577
                 }
             ]
         },
@@ -4485,8 +4489,8 @@
                     "value": "Proud af"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 231
+                    "trait_type": "Rarity",
+                    "value": 230
                 }
             ]
         },
@@ -4518,7 +4522,7 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 440
                 }
             ]
@@ -4551,8 +4555,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 457
+                    "trait_type": "Rarity",
+                    "value": 459
                 }
             ]
         },
@@ -4580,7 +4584,7 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 627
                 }
             ]
@@ -4609,8 +4613,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 605
+                    "trait_type": "Rarity",
+                    "value": 606
                 }
             ]
         },
@@ -4642,7 +4646,7 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 76
                 }
             ]
@@ -4679,8 +4683,8 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 402
+                    "trait_type": "Rarity",
+                    "value": 405
                 }
             ]
         },
@@ -4708,8 +4712,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 417
+                    "trait_type": "Rarity",
+                    "value": 418
                 }
             ]
         },
@@ -4745,7 +4749,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 479
                 }
             ]
@@ -4774,8 +4778,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 612
+                    "trait_type": "Rarity",
+                    "value": 613
                 }
             ]
         },
@@ -4811,7 +4815,7 @@
                     "value": "Purr People Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 2
                 }
             ]
@@ -4844,7 +4848,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 397
                 }
             ]
@@ -4873,7 +4877,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 258
                 }
             ]
@@ -4910,8 +4914,8 @@
                     "value": "Evil Wizard Hat"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 288
+                    "trait_type": "Rarity",
+                    "value": 287
                 }
             ]
         },
@@ -4951,8 +4955,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 101
+                    "trait_type": "Rarity",
+                    "value": 102
                 }
             ]
         },
@@ -4984,7 +4988,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 460
                 }
             ]
@@ -5021,8 +5025,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 356
+                    "trait_type": "Rarity",
+                    "value": 355
                 }
             ]
         },
@@ -5058,7 +5062,7 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 91
                 }
             ]
@@ -5087,7 +5091,7 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 372
                 }
             ]
@@ -5120,7 +5124,7 @@
                     "value": "Purple Paranoia"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 19
                 }
             ]
@@ -5161,7 +5165,7 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 97
                 }
             ]
@@ -5194,7 +5198,7 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 253
                 }
             ]
@@ -5231,8 +5235,8 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 140
+                    "trait_type": "Rarity",
+                    "value": 139
                 }
             ]
         },
@@ -5260,8 +5264,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 505
+                    "trait_type": "Rarity",
+                    "value": 506
                 }
             ]
         },
@@ -5297,7 +5301,7 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 298
                 }
             ]
@@ -5334,7 +5338,7 @@
                     "value": "Nexus Cap"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 3
                 }
             ]
@@ -5367,7 +5371,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 299
                 }
             ]
@@ -5400,7 +5404,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 254
                 }
             ]
@@ -5437,7 +5441,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 136
                 }
             ]
@@ -5474,8 +5478,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 393
+                    "trait_type": "Rarity",
+                    "value": 394
                 }
             ]
         },
@@ -5511,8 +5515,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 223
+                    "trait_type": "Rarity",
+                    "value": 224
                 }
             ]
         },
@@ -5544,7 +5548,7 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 166
                 }
             ]
@@ -5573,7 +5577,7 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 79
                 }
             ]
@@ -5610,7 +5614,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 113
                 }
             ]
@@ -5643,8 +5647,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 269
+                    "trait_type": "Rarity",
+                    "value": 270
                 }
             ]
         },
@@ -5684,8 +5688,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 121
+                    "trait_type": "Rarity",
+                    "value": 120
                 }
             ]
         },
@@ -5717,7 +5721,7 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 134
                 }
             ]
@@ -5742,8 +5746,8 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 641
+                    "trait_type": "Rarity",
+                    "value": 642
                 }
             ]
         },
@@ -5779,8 +5783,8 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 122
+                    "trait_type": "Rarity",
+                    "value": 121
                 }
             ]
         },
@@ -5808,8 +5812,8 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 498
+                    "trait_type": "Rarity",
+                    "value": 499
                 }
             ]
         },
@@ -5841,8 +5845,8 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 475
+                    "trait_type": "Rarity",
+                    "value": 477
                 }
             ]
         },
@@ -5874,8 +5878,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 476
+                    "trait_type": "Rarity",
+                    "value": 474
                 }
             ]
         },
@@ -5911,8 +5915,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 400
+                    "trait_type": "Rarity",
+                    "value": 401
                 }
             ]
         },
@@ -5940,8 +5944,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 470
+                    "trait_type": "Rarity",
+                    "value": 469
                 }
             ]
         },
@@ -5973,7 +5977,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 379
                 }
             ]
@@ -6010,7 +6014,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 168
                 }
             ]
@@ -6043,8 +6047,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 524
+                    "trait_type": "Rarity",
+                    "value": 523
                 }
             ]
         },
@@ -6080,7 +6084,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 37
                 }
             ]
@@ -6113,8 +6117,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 488
+                    "trait_type": "Rarity",
+                    "value": 489
                 }
             ]
         },
@@ -6146,8 +6150,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 234
+                    "trait_type": "Rarity",
+                    "value": 233
                 }
             ]
         },
@@ -6175,8 +6179,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 625
+                    "trait_type": "Rarity",
+                    "value": 626
                 }
             ]
         },
@@ -6216,7 +6220,7 @@
                     "value": "Sword of Discord"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 95
                 }
             ]
@@ -6257,7 +6261,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 329
                 }
             ]
@@ -6286,7 +6290,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 481
                 }
             ]
@@ -6319,8 +6323,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 208
+                    "trait_type": "Rarity",
+                    "value": 207
                 }
             ]
         },
@@ -6348,7 +6352,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 463
                 }
             ]
@@ -6389,7 +6393,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 38
                 }
             ]
@@ -6422,8 +6426,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 304
+                    "trait_type": "Rarity",
+                    "value": 302
                 }
             ]
         },
@@ -6459,7 +6463,7 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 87
                 }
             ]
@@ -6492,7 +6496,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 238
                 }
             ]
@@ -6529,7 +6533,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 11
                 }
             ]
@@ -6558,8 +6562,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 548
+                    "trait_type": "Rarity",
+                    "value": 549
                 }
             ]
         },
@@ -6591,7 +6595,7 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 212
                 }
             ]
@@ -6624,7 +6628,7 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 172
                 }
             ]
@@ -6657,7 +6661,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 273
                 }
             ]
@@ -6694,7 +6698,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 90
                 }
             ]
@@ -6723,7 +6727,7 @@
                     "value": "Ready For Battle"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 106
                 }
             ]
@@ -6760,7 +6764,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 148
                 }
             ]
@@ -6793,7 +6797,7 @@
                     "value": "Purple Paranoia"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 12
                 }
             ]
@@ -6826,7 +6830,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 338
                 }
             ]
@@ -6855,8 +6859,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 552
+                    "trait_type": "Rarity",
+                    "value": 555
                 }
             ]
         },
@@ -6888,8 +6892,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 418
+                    "trait_type": "Rarity",
+                    "value": 427
                 }
             ]
         },
@@ -6921,7 +6925,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 527
                 }
             ]
@@ -6958,8 +6962,8 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 266
+                    "trait_type": "Rarity",
+                    "value": 268
                 }
             ]
         },
@@ -6995,8 +6999,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 59
+                    "trait_type": "Rarity",
+                    "value": 58
                 }
             ]
         },
@@ -7028,7 +7032,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 337
                 }
             ]
@@ -7057,8 +7061,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 521
+                    "trait_type": "Rarity",
+                    "value": 519
                 }
             ]
         },
@@ -7090,8 +7094,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 448
+                    "trait_type": "Rarity",
+                    "value": 450
                 }
             ]
         },
@@ -7131,7 +7135,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 28
                 }
             ]
@@ -7168,8 +7172,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 182
+                    "trait_type": "Rarity",
+                    "value": 181
                 }
             ]
         },
@@ -7201,8 +7205,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 342
+                    "trait_type": "Rarity",
+                    "value": 346
                 }
             ]
         },
@@ -7226,8 +7230,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 642
+                    "trait_type": "Rarity",
+                    "value": 643
                 }
             ]
         },
@@ -7267,8 +7271,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 239
+                    "trait_type": "Rarity",
+                    "value": 241
                 }
             ]
         },
@@ -7300,8 +7304,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 291
+                    "trait_type": "Rarity",
+                    "value": 292
                 }
             ]
         },
@@ -7333,8 +7337,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 493
+                    "trait_type": "Rarity",
+                    "value": 494
                 }
             ]
         },
@@ -7366,8 +7370,8 @@
                     "value": "Bone Crown"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 138
+                    "trait_type": "Rarity",
+                    "value": 137
                 }
             ]
         },
@@ -7395,8 +7399,8 @@
                     "value": "Orange Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 346
+                    "trait_type": "Rarity",
+                    "value": 347
                 }
             ]
         },
@@ -7428,8 +7432,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 550
+                    "trait_type": "Rarity",
+                    "value": 551
                 }
             ]
         },
@@ -7457,7 +7461,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 594
                 }
             ]
@@ -7490,8 +7494,8 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 232
+                    "trait_type": "Rarity",
+                    "value": 231
                 }
             ]
         },
@@ -7523,8 +7527,8 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 319
+                    "trait_type": "Rarity",
+                    "value": 320
                 }
             ]
         },
@@ -7560,7 +7564,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 84
                 }
             ]
@@ -7589,7 +7593,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 274
                 }
             ]
@@ -7614,8 +7618,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 655
+                    "trait_type": "Rarity",
+                    "value": 656
                 }
             ]
         },
@@ -7639,8 +7643,8 @@
                     "value": "Purple Paranoia"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 497
+                    "trait_type": "Rarity",
+                    "value": 498
                 }
             ]
         },
@@ -7676,7 +7680,7 @@
                     "value": "Single Use Doomsday Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 78
                 }
             ]
@@ -7713,7 +7717,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 315
                 }
             ]
@@ -7742,7 +7746,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 622
                 }
             ]
@@ -7775,8 +7779,8 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 51
+                    "trait_type": "Rarity",
+                    "value": 52
                 }
             ]
         },
@@ -7808,7 +7812,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 406
                 }
             ]
@@ -7833,8 +7837,8 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 568
+                    "trait_type": "Rarity",
+                    "value": 569
                 }
             ]
         },
@@ -7862,8 +7866,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 626
+                    "trait_type": "Rarity",
+                    "value": 625
                 }
             ]
         },
@@ -7895,7 +7899,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 539
                 }
             ]
@@ -7928,7 +7932,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 378
                 }
             ]
@@ -7965,7 +7969,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 77
                 }
             ]
@@ -7998,8 +8002,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 321
+                    "trait_type": "Rarity",
+                    "value": 322
                 }
             ]
         },
@@ -8035,8 +8039,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 228
+                    "trait_type": "Rarity",
+                    "value": 227
                 }
             ]
         },
@@ -8072,8 +8076,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 394
+                    "trait_type": "Rarity",
+                    "value": 399
                 }
             ]
         },
@@ -8101,7 +8105,7 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 637
                 }
             ]
@@ -8130,7 +8134,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 634
                 }
             ]
@@ -8171,7 +8175,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 31
                 }
             ]
@@ -8200,8 +8204,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 566
+                    "trait_type": "Rarity",
+                    "value": 567
                 }
             ]
         },
@@ -8229,7 +8233,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 593
                 }
             ]
@@ -8258,8 +8262,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 544
+                    "trait_type": "Rarity",
+                    "value": 545
                 }
             ]
         },
@@ -8291,7 +8295,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 249
                 }
             ]
@@ -8328,7 +8332,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 261
                 }
             ]
@@ -8361,8 +8365,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 473
+                    "trait_type": "Rarity",
+                    "value": 472
                 }
             ]
         },
@@ -8398,7 +8402,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 179
                 }
             ]
@@ -8435,7 +8439,7 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 419
                 }
             ]
@@ -8464,8 +8468,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 609
+                    "trait_type": "Rarity",
+                    "value": 610
                 }
             ]
         },
@@ -8501,8 +8505,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 192
+                    "trait_type": "Rarity",
+                    "value": 194
                 }
             ]
         },
@@ -8534,8 +8538,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 374
+                    "trait_type": "Rarity",
+                    "value": 375
                 }
             ]
         },
@@ -8563,8 +8567,8 @@
                     "value": "Orange Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 429
+                    "trait_type": "Rarity",
+                    "value": 430
                 }
             ]
         },
@@ -8588,7 +8592,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 615
                 }
             ]
@@ -8617,8 +8621,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 458
+                    "trait_type": "Rarity",
+                    "value": 457
                 }
             ]
         },
@@ -8658,7 +8662,7 @@
                     "value": "Orange Visoor"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 68
                 }
             ]
@@ -8687,7 +8691,7 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 389
                 }
             ]
@@ -8716,7 +8720,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 559
                 }
             ]
@@ -8745,8 +8749,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 489
+                    "trait_type": "Rarity",
+                    "value": 490
                 }
             ]
         },
@@ -8782,8 +8786,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 236
+                    "trait_type": "Rarity",
+                    "value": 235
                 }
             ]
         },
@@ -8811,8 +8815,8 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 564
+                    "trait_type": "Rarity",
+                    "value": 565
                 }
             ]
         },
@@ -8840,8 +8844,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 411
+                    "trait_type": "Rarity",
+                    "value": 410
                 }
             ]
         },
@@ -8873,7 +8877,7 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 290
                 }
             ]
@@ -8906,7 +8910,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 370
                 }
             ]
@@ -8943,7 +8947,7 @@
                     "value": "Bonus Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 36
                 }
             ]
@@ -8972,7 +8976,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 286
                 }
             ]
@@ -9005,7 +9009,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 300
                 }
             ]
@@ -9034,8 +9038,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 596
+                    "trait_type": "Rarity",
+                    "value": 597
                 }
             ]
         },
@@ -9063,8 +9067,8 @@
                     "value": "Black Hoodie"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 494
+                    "trait_type": "Rarity",
+                    "value": 495
                 }
             ]
         },
@@ -9108,7 +9112,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 72
                 }
             ]
@@ -9141,7 +9145,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 332
                 }
             ]
@@ -9174,8 +9178,8 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 431
+                    "trait_type": "Rarity",
+                    "value": 432
                 }
             ]
         },
@@ -9207,7 +9211,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 92
                 }
             ]
@@ -9236,7 +9240,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 25
                 }
             ]
@@ -9269,7 +9273,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 297
                 }
             ]
@@ -9298,8 +9302,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 520
+                    "trait_type": "Rarity",
+                    "value": 518
                 }
             ]
         },
@@ -9331,7 +9335,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 465
                 }
             ]
@@ -9360,7 +9364,7 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 15
                 }
             ]
@@ -9385,8 +9389,8 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 556
+                    "trait_type": "Rarity",
+                    "value": 557
                 }
             ]
         },
@@ -9422,8 +9426,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 210
+                    "trait_type": "Rarity",
+                    "value": 209
                 }
             ]
         },
@@ -9459,7 +9463,7 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 214
                 }
             ]
@@ -9496,8 +9500,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 376
+                    "trait_type": "Rarity",
+                    "value": 381
                 }
             ]
         },
@@ -9525,7 +9529,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 307
                 }
             ]
@@ -9558,7 +9562,7 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 361
                 }
             ]
@@ -9591,7 +9595,7 @@
                     "value": "Inner Vision Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 9
                 }
             ]
@@ -9616,7 +9620,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 628
                 }
             ]
@@ -9649,8 +9653,8 @@
                     "value": "Bad Mood"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 283
+                    "trait_type": "Rarity",
+                    "value": 282
                 }
             ]
         },
@@ -9678,8 +9682,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 490
+                    "trait_type": "Rarity",
+                    "value": 491
                 }
             ]
         },
@@ -9711,8 +9715,8 @@
                     "value": "Candy Crusher 500 Kids Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 384
+                    "trait_type": "Rarity",
+                    "value": 385
                 }
             ]
         },
@@ -9744,8 +9748,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 428
+                    "trait_type": "Rarity",
+                    "value": 429
                 }
             ]
         },
@@ -9777,8 +9781,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 588
+                    "trait_type": "Rarity",
+                    "value": 589
                 }
             ]
         },
@@ -9814,8 +9818,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 244
+                    "trait_type": "Rarity",
+                    "value": 242
                 }
             ]
         },
@@ -9847,7 +9851,7 @@
                     "value": "Zombie Eye Patch"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 124
                 }
             ]
@@ -9884,8 +9888,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 196
+                    "trait_type": "Rarity",
+                    "value": 195
                 }
             ]
         },
@@ -9921,8 +9925,8 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 233
+                    "trait_type": "Rarity",
+                    "value": 232
                 }
             ]
         },
@@ -9958,7 +9962,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 63
                 }
             ]
@@ -9995,7 +9999,7 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 86
                 }
             ]
@@ -10028,7 +10032,7 @@
                     "value": "CAAANDYYY!"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 377
                 }
             ]
@@ -10065,8 +10069,8 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 405
+                    "trait_type": "Rarity",
+                    "value": 412
                 }
             ]
         },
@@ -10102,8 +10106,8 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 217
+                    "trait_type": "Rarity",
+                    "value": 216
                 }
             ]
         },
@@ -10135,8 +10139,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 301
+                    "trait_type": "Rarity",
+                    "value": 303
                 }
             ]
         },
@@ -10164,8 +10168,8 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 349
+                    "trait_type": "Rarity",
+                    "value": 364
                 }
             ]
         },
@@ -10197,7 +10201,7 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 175
                 }
             ]
@@ -10230,8 +10234,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 478
+                    "trait_type": "Rarity",
+                    "value": 488
                 }
             ]
         },
@@ -10259,7 +10263,7 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 264
                 }
             ]
@@ -10284,7 +10288,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 624
                 }
             ]
@@ -10321,8 +10325,8 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 222
+                    "trait_type": "Rarity",
+                    "value": 221
                 }
             ]
         },
@@ -10350,8 +10354,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 611
+                    "trait_type": "Rarity",
+                    "value": 612
                 }
             ]
         },
@@ -10383,7 +10387,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 259
                 }
             ]
@@ -10416,7 +10420,7 @@
                     "value": "Fancy Hair black"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 276
                 }
             ]
@@ -10445,7 +10449,7 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 420
                 }
             ]
@@ -10470,7 +10474,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 646
                 }
             ]
@@ -10503,8 +10507,8 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 382
+                    "trait_type": "Rarity",
+                    "value": 383
                 }
             ]
         },
@@ -10536,8 +10540,8 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 316
+                    "trait_type": "Rarity",
+                    "value": 317
                 }
             ]
         },
@@ -10565,8 +10569,8 @@
                     "value": "Orange Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 414
+                    "trait_type": "Rarity",
+                    "value": 415
                 }
             ]
         },
@@ -10594,7 +10598,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 619
                 }
             ]
@@ -10627,7 +10631,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 359
                 }
             ]
@@ -10660,7 +10664,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 74
                 }
             ]
@@ -10693,7 +10697,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 252
                 }
             ]
@@ -10730,8 +10734,8 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 206
+                    "trait_type": "Rarity",
+                    "value": 210
                 }
             ]
         },
@@ -10775,7 +10779,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 26
                 }
             ]
@@ -10804,8 +10808,8 @@
                     "value": "Single Use Doomsday Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 207
+                    "trait_type": "Rarity",
+                    "value": 206
                 }
             ]
         },
@@ -10837,8 +10841,8 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 102
+                    "trait_type": "Rarity",
+                    "value": 101
                 }
             ]
         },
@@ -10866,8 +10870,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 385
+                    "trait_type": "Rarity",
+                    "value": 386
                 }
             ]
         },
@@ -10899,7 +10903,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 456
                 }
             ]
@@ -10936,8 +10940,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 194
+                    "trait_type": "Rarity",
+                    "value": 196
                 }
             ]
         },
@@ -10969,8 +10973,8 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 230
+                    "trait_type": "Rarity",
+                    "value": 229
                 }
             ]
         },
@@ -10994,7 +10998,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 661
                 }
             ]
@@ -11027,8 +11031,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 503
+                    "trait_type": "Rarity",
+                    "value": 504
                 }
             ]
         },
@@ -11060,8 +11064,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 591
+                    "trait_type": "Rarity",
+                    "value": 595
                 }
             ]
         },
@@ -11101,7 +11105,7 @@
                     "value": "Evil Wizard Hat"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 164
                 }
             ]
@@ -11138,7 +11142,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 199
                 }
             ]
@@ -11163,8 +11167,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 313
+                    "trait_type": "Rarity",
+                    "value": 312
                 }
             ]
         },
@@ -11200,7 +11204,7 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 294
                 }
             ]
@@ -11229,7 +11233,7 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 327
                 }
             ]
@@ -11262,7 +11266,7 @@
                     "value": "Maga Cap"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 388
                 }
             ]
@@ -11303,8 +11307,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 190
+                    "trait_type": "Rarity",
+                    "value": 189
                 }
             ]
         },
@@ -11340,7 +11344,7 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 44
                 }
             ]
@@ -11377,8 +11381,8 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 357
+                    "trait_type": "Rarity",
+                    "value": 356
                 }
             ]
         },
@@ -11410,8 +11414,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 450
+                    "trait_type": "Rarity",
+                    "value": 449
                 }
             ]
         },
@@ -11435,7 +11439,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 620
                 }
             ]
@@ -11476,8 +11480,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 226
+                    "trait_type": "Rarity",
+                    "value": 225
                 }
             ]
         },
@@ -11513,7 +11517,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 10
                 }
             ]
@@ -11542,8 +11546,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 647
+                    "trait_type": "Rarity",
+                    "value": 648
                 }
             ]
         },
@@ -11579,8 +11583,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 219
+                    "trait_type": "Rarity",
+                    "value": 218
                 }
             ]
         },
@@ -11612,7 +11616,7 @@
                     "value": "Purple Paranoia"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 352
                 }
             ]
@@ -11645,8 +11649,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 551
+                    "trait_type": "Rarity",
+                    "value": 552
                 }
             ]
         },
@@ -11678,8 +11682,8 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 326
+                    "trait_type": "Rarity",
+                    "value": 325
                 }
             ]
         },
@@ -11711,7 +11715,7 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 339
                 }
             ]
@@ -11744,7 +11748,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 246
                 }
             ]
@@ -11781,7 +11785,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 119
                 }
             ]
@@ -11818,8 +11822,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 318
+                    "trait_type": "Rarity",
+                    "value": 319
                 }
             ]
         },
@@ -11847,8 +11851,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 555
+                    "trait_type": "Rarity",
+                    "value": 556
                 }
             ]
         },
@@ -11880,8 +11884,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 235
+                    "trait_type": "Rarity",
+                    "value": 234
                 }
             ]
         },
@@ -11913,8 +11917,8 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 183
+                    "trait_type": "Rarity",
+                    "value": 182
                 }
             ]
         },
@@ -11946,7 +11950,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 363
                 }
             ]
@@ -11979,7 +11983,7 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 534
                 }
             ]
@@ -12008,7 +12012,7 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 461
                 }
             ]
@@ -12045,8 +12049,8 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 392
+                    "trait_type": "Rarity",
+                    "value": 393
                 }
             ]
         },
@@ -12078,8 +12082,8 @@
                     "value": "Ghost Costume Full Face"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 195
+                    "trait_type": "Rarity",
+                    "value": 193
                 }
             ]
         },
@@ -12111,8 +12115,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 241
+                    "trait_type": "Rarity",
+                    "value": 240
                 }
             ]
         },
@@ -12140,7 +12144,7 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 310
                 }
             ]
@@ -12177,8 +12181,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 268
+                    "trait_type": "Rarity",
+                    "value": 269
                 }
             ]
         },
@@ -12210,8 +12214,8 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 381
+                    "trait_type": "Rarity",
+                    "value": 382
                 }
             ]
         },
@@ -12239,7 +12243,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 309
                 }
             ]
@@ -12272,8 +12276,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 225
+                    "trait_type": "Rarity",
+                    "value": 223
                 }
             ]
         },
@@ -12301,8 +12305,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 519
+                    "trait_type": "Rarity",
+                    "value": 522
                 }
             ]
         },
@@ -12334,8 +12338,8 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 366
+                    "trait_type": "Rarity",
+                    "value": 367
                 }
             ]
         },
@@ -12363,8 +12367,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 530
+                    "trait_type": "Rarity",
+                    "value": 529
                 }
             ]
         },
@@ -12392,7 +12396,7 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 535
                 }
             ]
@@ -12421,7 +12425,7 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 82
                 }
             ]
@@ -12462,7 +12466,7 @@
                     "value": "Purple Paranoia"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 54
                 }
             ]
@@ -12499,7 +12503,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 62
                 }
             ]
@@ -12536,8 +12540,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 187
+                    "trait_type": "Rarity",
+                    "value": 186
                 }
             ]
         },
@@ -12569,8 +12573,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 528
+                    "trait_type": "Rarity",
+                    "value": 530
                 }
             ]
         },
@@ -12606,7 +12610,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 390
                 }
             ]
@@ -12635,7 +12639,7 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 180
                 }
             ]
@@ -12668,8 +12672,8 @@
                     "value": "Dark Knights Helmet"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 285
+                    "trait_type": "Rarity",
+                    "value": 284
                 }
             ]
         },
@@ -12697,8 +12701,8 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 412
+                    "trait_type": "Rarity",
+                    "value": 413
                 }
             ]
         },
@@ -12726,8 +12730,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 633
+                    "trait_type": "Rarity",
+                    "value": 632
                 }
             ]
         },
@@ -12755,8 +12759,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 508
+                    "trait_type": "Rarity",
+                    "value": 509
                 }
             ]
         },
@@ -12796,8 +12800,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 58
+                    "trait_type": "Rarity",
+                    "value": 57
                 }
             ]
         },
@@ -12821,7 +12825,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 630
                 }
             ]
@@ -12858,7 +12862,7 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 185
                 }
             ]
@@ -12891,8 +12895,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 506
+                    "trait_type": "Rarity",
+                    "value": 507
                 }
             ]
         },
@@ -12924,8 +12928,8 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 571
+                    "trait_type": "Rarity",
+                    "value": 572
                 }
             ]
         },
@@ -12957,7 +12961,7 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 424
                 }
             ]
@@ -12990,7 +12994,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 369
                 }
             ]
@@ -13019,7 +13023,7 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 127
                 }
             ]
@@ -13048,7 +13052,7 @@
                     "value": "Inner Vision Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 49
                 }
             ]
@@ -13077,7 +13081,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 201
                 }
             ]
@@ -13114,7 +13118,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 308
                 }
             ]
@@ -13151,7 +13155,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 462
                 }
             ]
@@ -13188,7 +13192,7 @@
                     "value": "BCPD Police Cap"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 117
                 }
             ]
@@ -13217,7 +13221,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 540
                 }
             ]
@@ -13250,8 +13254,8 @@
                     "value": "Ready For Battle"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 57
+                    "trait_type": "Rarity",
+                    "value": 56
                 }
             ]
         },
@@ -13283,7 +13287,7 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 45
                 }
             ]
@@ -13312,8 +13316,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 573
+                    "trait_type": "Rarity",
+                    "value": 574
                 }
             ]
         },
@@ -13341,7 +13345,7 @@
                     "value": "Blockchain Maintanance Helmet"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 18
                 }
             ]
@@ -13378,7 +13382,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 331
                 }
             ]
@@ -13411,7 +13415,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 353
                 }
             ]
@@ -13448,7 +13452,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 205
                 }
             ]
@@ -13489,7 +13493,7 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 33
                 }
             ]
@@ -13530,8 +13534,8 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 191
+                    "trait_type": "Rarity",
+                    "value": 190
                 }
             ]
         },
@@ -13567,8 +13571,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 295
+                    "trait_type": "Rarity",
+                    "value": 296
                 }
             ]
         },
@@ -13604,7 +13608,7 @@
                     "value": "Inner Vision Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 35
                 }
             ]
@@ -13637,8 +13641,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 188
+                    "trait_type": "Rarity",
+                    "value": 187
                 }
             ]
         },
@@ -13666,8 +13670,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 562
+                    "trait_type": "Rarity",
+                    "value": 563
                 }
             ]
         },
@@ -13699,7 +13703,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 345
                 }
             ]
@@ -13728,7 +13732,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 336
                 }
             ]
@@ -13761,7 +13765,7 @@
                     "value": "Ready For Battle"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 81
                 }
             ]
@@ -13794,7 +13798,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 94
                 }
             ]
@@ -13831,7 +13835,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 110
                 }
             ]
@@ -13864,7 +13868,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 289
                 }
             ]
@@ -13901,7 +13905,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 6
                 }
             ]
@@ -13926,7 +13930,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 658
                 }
             ]
@@ -13959,7 +13963,7 @@
                     "value": "Horny"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 170
                 }
             ]
@@ -13996,7 +14000,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 89
                 }
             ]
@@ -14025,7 +14029,7 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 380
                 }
             ]
@@ -14062,7 +14066,7 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 202
                 }
             ]
@@ -14103,7 +14107,7 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 42
                 }
             ]
@@ -14132,7 +14136,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 629
                 }
             ]
@@ -14165,7 +14169,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 403
                 }
             ]
@@ -14198,7 +14202,7 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 371
                 }
             ]
@@ -14235,7 +14239,7 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 32
                 }
             ]
@@ -14272,7 +14276,7 @@
                     "value": "Inner Vision Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 13
                 }
             ]
@@ -14305,7 +14309,7 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 251
                 }
             ]
@@ -14338,7 +14342,7 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 351
                 }
             ]
@@ -14375,7 +14379,7 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 70
                 }
             ]
@@ -14404,8 +14408,8 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 589
+                    "trait_type": "Rarity",
+                    "value": 590
                 }
             ]
         },
@@ -14433,7 +14437,7 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 618
                 }
             ]
@@ -14462,8 +14466,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 453
+                    "trait_type": "Rarity",
+                    "value": 478
                 }
             ]
         },
@@ -14495,7 +14499,7 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 426
                 }
             ]
@@ -14532,7 +14536,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 158
                 }
             ]
@@ -14561,8 +14565,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 607
+                    "trait_type": "Rarity",
+                    "value": 608
                 }
             ]
         },
@@ -14590,7 +14594,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 621
                 }
             ]
@@ -14627,7 +14631,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 360
                 }
             ]
@@ -14656,8 +14660,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 649
+                    "trait_type": "Rarity",
+                    "value": 650
                 }
             ]
         },
@@ -14685,8 +14689,8 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 561
+                    "trait_type": "Rarity",
+                    "value": 562
                 }
             ]
         },
@@ -14726,7 +14730,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 272
                 }
             ]
@@ -14755,7 +14759,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 531
                 }
             ]
@@ -14784,8 +14788,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 510
+                    "trait_type": "Rarity",
+                    "value": 511
                 }
             ]
         },
@@ -14817,8 +14821,8 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 434
+                    "trait_type": "Rarity",
+                    "value": 435
                 }
             ]
         },
@@ -14842,8 +14846,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 652
+                    "trait_type": "Rarity",
+                    "value": 653
                 }
             ]
         },
@@ -14875,8 +14879,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 324
+                    "trait_type": "Rarity",
+                    "value": 326
                 }
             ]
         },
@@ -14912,7 +14916,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 104
                 }
             ]
@@ -14941,8 +14945,8 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 491
+                    "trait_type": "Rarity",
+                    "value": 492
                 }
             ]
         },
@@ -14974,8 +14978,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 281
+                    "trait_type": "Rarity",
+                    "value": 285
                 }
             ]
         },
@@ -15007,8 +15011,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 152
+                    "trait_type": "Rarity",
+                    "value": 153
                 }
             ]
         },
@@ -15040,7 +15044,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 395
                 }
             ]
@@ -15073,8 +15077,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 437
+                    "trait_type": "Rarity",
+                    "value": 438
                 }
             ]
         },
@@ -15110,7 +15114,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 115
                 }
             ]
@@ -15147,7 +15151,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 8
                 }
             ]
@@ -15184,7 +15188,7 @@
                     "value": "Blockchain Maintanance Helmet"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 20
                 }
             ]
@@ -15213,7 +15217,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 617
                 }
             ]
@@ -15246,8 +15250,8 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 229
+                    "trait_type": "Rarity",
+                    "value": 228
                 }
             ]
         },
@@ -15279,8 +15283,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 547
+                    "trait_type": "Rarity",
+                    "value": 548
                 }
             ]
         },
@@ -15312,7 +15316,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 487
                 }
             ]
@@ -15345,7 +15349,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 536
                 }
             ]
@@ -15382,7 +15386,7 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 34
                 }
             ]
@@ -15419,7 +15423,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 53
                 }
             ]
@@ -15456,8 +15460,8 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 216
+                    "trait_type": "Rarity",
+                    "value": 237
                 }
             ]
         },
@@ -15485,7 +15489,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 485
                 }
             ]
@@ -15518,8 +15522,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 537
+                    "trait_type": "Rarity",
+                    "value": 538
                 }
             ]
         },
@@ -15555,7 +15559,7 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 100
                 }
             ]
@@ -15588,8 +15592,8 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 367
+                    "trait_type": "Rarity",
+                    "value": 368
                 }
             ]
         },
@@ -15617,7 +15621,7 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 248
                 }
             ]
@@ -15650,8 +15654,8 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 227
+                    "trait_type": "Rarity",
+                    "value": 226
                 }
             ]
         },
@@ -15683,7 +15687,7 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 88
                 }
             ]
@@ -15712,8 +15716,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 383
+                    "trait_type": "Rarity",
+                    "value": 384
                 }
             ]
         },
@@ -15745,7 +15749,7 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 73
                 }
             ]
@@ -15778,7 +15782,7 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 451
                 }
             ]
@@ -15807,8 +15811,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 578
+                    "trait_type": "Rarity",
+                    "value": 579
                 }
             ]
         },
@@ -15844,7 +15848,7 @@
                     "value": "Watching Interview with the Vampire"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 41
                 }
             ]
@@ -15873,8 +15877,8 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 504
+                    "trait_type": "Rarity",
+                    "value": 505
                 }
             ]
         },
@@ -15906,7 +15910,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 17
                 }
             ]
@@ -15943,7 +15947,7 @@
                     "value": "Purple Paranoia"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 176
                 }
             ]
@@ -15972,8 +15976,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 601
+                    "trait_type": "Rarity",
+                    "value": 602
                 }
             ]
         },
@@ -16005,7 +16009,7 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 454
                 }
             ]
@@ -16046,8 +16050,8 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 181
+                    "trait_type": "Rarity",
+                    "value": 192
                 }
             ]
         },
@@ -16079,8 +16083,8 @@
                     "value": "Orange Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 52
+                    "trait_type": "Rarity",
+                    "value": 51
                 }
             ]
         },
@@ -16112,7 +16116,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 636
                 }
             ]
@@ -16149,7 +16153,7 @@
                     "value": "Zombie Eye Patch"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 47
                 }
             ]
@@ -16182,8 +16186,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 477
+                    "trait_type": "Rarity",
+                    "value": 476
                 }
             ]
         },
@@ -16219,7 +16223,7 @@
                     "value": "Evil Bot Visual Sensors"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 29
                 }
             ]
@@ -16252,7 +16256,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 213
                 }
             ]
@@ -16289,8 +16293,8 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 243
+                    "trait_type": "Rarity",
+                    "value": 244
                 }
             ]
         },
@@ -16326,7 +16330,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 260
                 }
             ]
@@ -16363,8 +16367,8 @@
                     "value": "Sus af"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 145
+                    "trait_type": "Rarity",
+                    "value": 144
                 }
             ]
         },
@@ -16396,7 +16400,7 @@
                     "value": "Wild Purple Hair"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 267
                 }
             ]
@@ -16429,7 +16433,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 421
                 }
             ]
@@ -16462,7 +16466,7 @@
                     "value": "Ready For Battle"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 55
                 }
             ]
@@ -16495,7 +16499,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 132
                 }
             ]
@@ -16524,8 +16528,8 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 516
+                    "trait_type": "Rarity",
+                    "value": 517
                 }
             ]
         },
@@ -16557,8 +16561,8 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 293
+                    "trait_type": "Rarity",
+                    "value": 316
                 }
             ]
         },
@@ -16590,7 +16594,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 558
                 }
             ]
@@ -16623,8 +16627,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 317
+                    "trait_type": "Rarity",
+                    "value": 318
                 }
             ]
         },
@@ -16660,7 +16664,7 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 93
                 }
             ]
@@ -16689,8 +16693,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 545
+                    "trait_type": "Rarity",
+                    "value": 546
                 }
             ]
         },
@@ -16726,8 +16730,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 154
+                    "trait_type": "Rarity",
+                    "value": 152
                 }
             ]
         },
@@ -16755,8 +16759,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 645
+                    "trait_type": "Rarity",
+                    "value": 647
                 }
             ]
         },
@@ -16792,8 +16796,8 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 515
+                    "trait_type": "Rarity",
+                    "value": 516
                 }
             ]
         },
@@ -16821,8 +16825,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 598
+                    "trait_type": "Rarity",
+                    "value": 599
                 }
             ]
         },
@@ -16854,8 +16858,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 557
+                    "trait_type": "Rarity",
+                    "value": 560
                 }
             ]
         },
@@ -16887,8 +16891,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 224
+                    "trait_type": "Rarity",
+                    "value": 222
                 }
             ]
         },
@@ -16920,7 +16924,7 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 173
                 }
             ]
@@ -16945,7 +16949,7 @@
                     "value": "Watching Interview with the Vampire"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 178
                 }
             ]
@@ -16978,7 +16982,7 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 271
                 }
             ]
@@ -17011,7 +17015,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 275
                 }
             ]
@@ -17040,8 +17044,8 @@
                     "value": "Big Eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 444
+                    "trait_type": "Rarity",
+                    "value": 445
                 }
             ]
         },
@@ -17069,8 +17073,8 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 430
+                    "trait_type": "Rarity",
+                    "value": 431
                 }
             ]
         },
@@ -17098,7 +17102,7 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 105
                 }
             ]
@@ -17127,8 +17131,8 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 401
+                    "trait_type": "Rarity",
+                    "value": 402
                 }
             ]
         },
@@ -17156,7 +17160,7 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 277
                 }
             ]
@@ -17185,8 +17189,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 518
+                    "trait_type": "Rarity",
+                    "value": 526
                 }
             ]
         },
@@ -17214,8 +17218,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 604
+                    "trait_type": "Rarity",
+                    "value": 605
                 }
             ]
         },
@@ -17247,8 +17251,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 263
+                    "trait_type": "Rarity",
+                    "value": 265
                 }
             ]
         },
@@ -17280,8 +17284,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 496
+                    "trait_type": "Rarity",
+                    "value": 497
                 }
             ]
         },
@@ -17317,8 +17321,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 449
+                    "trait_type": "Rarity",
+                    "value": 452
                 }
             ]
         },
@@ -17346,8 +17350,8 @@
                     "value": "Ghost Costume Full Face"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 284
+                    "trait_type": "Rarity",
+                    "value": 283
                 }
             ]
         },
@@ -17379,7 +17383,7 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 483
                 }
             ]
@@ -17408,8 +17412,8 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 525
+                    "trait_type": "Rarity",
+                    "value": 524
                 }
             ]
         },
@@ -17437,8 +17441,8 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 565
+                    "trait_type": "Rarity",
+                    "value": 566
                 }
             ]
         },
@@ -17474,8 +17478,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 323
+                    "trait_type": "Rarity",
+                    "value": 324
                 }
             ]
         },
@@ -17503,7 +17507,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 482
                 }
             ]
@@ -17536,8 +17540,8 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 141
+                    "trait_type": "Rarity",
+                    "value": 140
                 }
             ]
         },
@@ -17577,7 +17581,7 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 112
                 }
             ]
@@ -17602,7 +17606,7 @@
                     "value": "Pumpkin Helmet"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 311
                 }
             ]
@@ -17631,7 +17635,7 @@
                     "value": "Hash Mesh"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 165
                 }
             ]
@@ -17660,8 +17664,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 575
+                    "trait_type": "Rarity",
+                    "value": 576
                 }
             ]
         },
@@ -17693,8 +17697,8 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 237
+                    "trait_type": "Rarity",
+                    "value": 236
                 }
             ]
         },
@@ -17722,8 +17726,8 @@
                     "value": "Orange Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 446
+                    "trait_type": "Rarity",
+                    "value": 447
                 }
             ]
         },
@@ -17751,7 +17755,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 553
                 }
             ]
@@ -17784,7 +17788,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 96
                 }
             ]
@@ -17817,7 +17821,7 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 255
                 }
             ]
@@ -17854,8 +17858,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 442
+                    "trait_type": "Rarity",
+                    "value": 443
                 }
             ]
         },
@@ -17879,7 +17883,7 @@
                     "value": "Strange Mouth Positioning"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 398
                 }
             ]
@@ -17912,8 +17916,8 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 538
+                    "trait_type": "Rarity",
+                    "value": 544
                 }
             ]
         },
@@ -17945,8 +17949,8 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 144
+                    "trait_type": "Rarity",
+                    "value": 143
                 }
             ]
         },
@@ -17982,8 +17986,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 433
+                    "trait_type": "Rarity",
+                    "value": 434
                 }
             ]
         },
@@ -18011,8 +18015,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 585
+                    "trait_type": "Rarity",
+                    "value": 586
                 }
             ]
         },
@@ -18048,7 +18052,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 40
                 }
             ]
@@ -18085,7 +18089,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 334
                 }
             ]
@@ -18110,8 +18114,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 581
+                    "trait_type": "Rarity",
+                    "value": 582
                 }
             ]
         },
@@ -18143,7 +18147,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 198
                 }
             ]
@@ -18176,8 +18180,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 149
+                    "trait_type": "Rarity",
+                    "value": 147
                 }
             ]
         },
@@ -18205,8 +18209,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 512
+                    "trait_type": "Rarity",
+                    "value": 513
                 }
             ]
         },
@@ -18234,7 +18238,7 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 533
                 }
             ]
@@ -18271,7 +18275,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 46
                 }
             ]
@@ -18300,8 +18304,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 560
+                    "trait_type": "Rarity",
+                    "value": 561
                 }
             ]
         },
@@ -18329,8 +18333,8 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 584
+                    "trait_type": "Rarity",
+                    "value": 585
                 }
             ]
         },
@@ -18362,7 +18366,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 423
                 }
             ]
@@ -18391,8 +18395,8 @@
                     "value": "Open Minded"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 514
+                    "trait_type": "Rarity",
+                    "value": 515
                 }
             ]
         },
@@ -18424,8 +18428,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 500
+                    "trait_type": "Rarity",
+                    "value": 501
                 }
             ]
         },
@@ -18457,7 +18461,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 328
                 }
             ]
@@ -18486,8 +18490,8 @@
                     "value": "Never Go Full Pumpkin"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 509
+                    "trait_type": "Rarity",
+                    "value": 510
                 }
             ]
         },
@@ -18523,8 +18527,8 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 265
+                    "trait_type": "Rarity",
+                    "value": 266
                 }
             ]
         },
@@ -18552,8 +18556,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 364
+                    "trait_type": "Rarity",
+                    "value": 365
                 }
             ]
         },
@@ -18581,7 +18585,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 245
                 }
             ]
@@ -18618,7 +18622,7 @@
                     "value": "Hollow Eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 126
                 }
             ]
@@ -18651,7 +18655,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 341
                 }
             ]
@@ -18684,8 +18688,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 416
+                    "trait_type": "Rarity",
+                    "value": 417
                 }
             ]
         },
@@ -18721,8 +18725,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 435
+                    "trait_type": "Rarity",
+                    "value": 436
                 }
             ]
         },
@@ -18754,7 +18758,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 203
                 }
             ]
@@ -18791,8 +18795,8 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 156
+                    "trait_type": "Rarity",
+                    "value": 154
                 }
             ]
         },
@@ -18820,8 +18824,8 @@
                     "value": "Pumpkin Helmet"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 262
+                    "trait_type": "Rarity",
+                    "value": 263
                 }
             ]
         },
@@ -18845,7 +18849,7 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 543
                 }
             ]
@@ -18882,7 +18886,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 197
                 }
             ]
@@ -18911,8 +18915,8 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 413
+                    "trait_type": "Rarity",
+                    "value": 414
                 }
             ]
         },
@@ -18940,8 +18944,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 523
+                    "trait_type": "Rarity",
+                    "value": 521
                 }
             ]
         },
@@ -18969,7 +18973,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 480
                 }
             ]
@@ -19006,7 +19010,7 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 174
                 }
             ]
@@ -19035,8 +19039,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 410
+                    "trait_type": "Rarity",
+                    "value": 409
                 }
             ]
         },
@@ -19072,7 +19076,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 169
                 }
             ]
@@ -19105,7 +19109,7 @@
                     "value": "Shiny Official Rug Lord Fan Club Glasses"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 422
                 }
             ]
@@ -19142,8 +19146,8 @@
                     "value": "Zombie Eye Patch"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 56
+                    "trait_type": "Rarity",
+                    "value": 59
                 }
             ]
         },
@@ -19175,8 +19179,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 436
+                    "trait_type": "Rarity",
+                    "value": 437
                 }
             ]
         },
@@ -19208,7 +19212,7 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 135
                 }
             ]
@@ -19241,7 +19245,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 131
                 }
             ]
@@ -19274,8 +19278,8 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 580
+                    "trait_type": "Rarity",
+                    "value": 581
                 }
             ]
         },
@@ -19307,7 +19311,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 200
                 }
             ]
@@ -19348,7 +19352,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 27
                 }
             ]
@@ -19377,8 +19381,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 608
+                    "trait_type": "Rarity",
+                    "value": 609
                 }
             ]
         },
@@ -19410,8 +19414,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 467
+                    "trait_type": "Rarity",
+                    "value": 470
                 }
             ]
         },
@@ -19443,8 +19447,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 282
+                    "trait_type": "Rarity",
+                    "value": 281
                 }
             ]
         },
@@ -19476,7 +19480,7 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 532
                 }
             ]
@@ -19505,7 +19509,7 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 350
                 }
             ]
@@ -19530,8 +19534,8 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 650
+                    "trait_type": "Rarity",
+                    "value": 651
                 }
             ]
         },
@@ -19567,8 +19571,8 @@
                     "value": "Terrfiying Scamlord Martha Focker Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 137
+                    "trait_type": "Rarity",
+                    "value": 156
                 }
             ]
         },
@@ -19600,8 +19604,8 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 355
+                    "trait_type": "Rarity",
+                    "value": 357
                 }
             ]
         },
@@ -19625,8 +19629,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 654
+                    "trait_type": "Rarity",
+                    "value": 655
                 }
             ]
         },
@@ -19662,7 +19666,7 @@
                     "value": "Sword of Discord"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 160
                 }
             ]
@@ -19695,7 +19699,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 69
                 }
             ]
@@ -19724,8 +19728,8 @@
                     "value": "Inner Vision"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 570
+                    "trait_type": "Rarity",
+                    "value": 571
                 }
             ]
         },
@@ -19761,8 +19765,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 302
+                    "trait_type": "Rarity",
+                    "value": 304
                 }
             ]
         },
@@ -19790,8 +19794,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 469
+                    "trait_type": "Rarity",
+                    "value": 468
                 }
             ]
         },
@@ -19831,8 +19835,8 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 306
+                    "trait_type": "Rarity",
+                    "value": 305
                 }
             ]
         },
@@ -19860,8 +19864,8 @@
                     "value": "Orange Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 153
+                    "trait_type": "Rarity",
+                    "value": 151
                 }
             ]
         },
@@ -19889,8 +19893,8 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 522
+                    "trait_type": "Rarity",
+                    "value": 520
                 }
             ]
         },
@@ -19926,7 +19930,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 16
                 }
             ]
@@ -19955,7 +19959,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 66
                 }
             ]
@@ -19984,8 +19988,8 @@
                     "value": "Insufferable Eye Extension"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 640
+                    "trait_type": "Rarity",
+                    "value": 641
                 }
             ]
         },
@@ -20017,8 +20021,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 257
+                    "trait_type": "Rarity",
+                    "value": 256
                 }
             ]
         },
@@ -20050,8 +20054,8 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 529
+                    "trait_type": "Rarity",
+                    "value": 528
                 }
             ]
         },
@@ -20087,8 +20091,8 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 292
+                    "trait_type": "Rarity",
+                    "value": 293
                 }
             ]
         },
@@ -20124,8 +20128,8 @@
                     "value": "Zoned out"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 432
+                    "trait_type": "Rarity",
+                    "value": 433
                 }
             ]
         },
@@ -20157,8 +20161,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 320
+                    "trait_type": "Rarity",
+                    "value": 321
                 }
             ]
         },
@@ -20186,7 +20190,7 @@
                     "value": "Pirates of the Drain Plains Costume"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 635
                 }
             ]
@@ -20215,8 +20219,8 @@
                     "value": "Skull Plate"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 151
+                    "trait_type": "Rarity",
+                    "value": 150
                 }
             ]
         },
@@ -20244,7 +20248,7 @@
                     "value": "Sunken Eye"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 592
                 }
             ]
@@ -20281,8 +20285,8 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 157
+                    "trait_type": "Rarity",
+                    "value": 155
                 }
             ]
         },
@@ -20306,7 +20310,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 659
                 }
             ]
@@ -20339,8 +20343,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 347
+                    "trait_type": "Rarity",
+                    "value": 348
                 }
             ]
         },
@@ -20372,7 +20376,7 @@
                     "value": "SKULLS FOR THE SKULL GOD v2"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 85
                 }
             ]
@@ -20405,7 +20409,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 162
                 }
             ]
@@ -20430,7 +20434,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 657
                 }
             ]
@@ -20467,7 +20471,7 @@
                     "value": "Slick"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 108
                 }
             ]
@@ -20504,7 +20508,7 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 98
                 }
             ]
@@ -20537,7 +20541,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 64
                 }
             ]
@@ -20566,8 +20570,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 567
+                    "trait_type": "Rarity",
+                    "value": 568
                 }
             ]
         },
@@ -20599,7 +20603,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 441
                 }
             ]
@@ -20636,7 +20640,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 103
                 }
             ]
@@ -20669,7 +20673,7 @@
                     "value": "Spooky MEV Bot Protector Orange"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 358
                 }
             ]
@@ -20702,8 +20706,8 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 415
+                    "trait_type": "Rarity",
+                    "value": 416
                 }
             ]
         },
@@ -20735,8 +20739,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 579
+                    "trait_type": "Rarity",
+                    "value": 580
                 }
             ]
         },
@@ -20772,8 +20776,8 @@
                     "value": "BRAAINSSS"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 438
+                    "trait_type": "Rarity",
+                    "value": 442
                 }
             ]
         },
@@ -20801,8 +20805,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 322
+                    "trait_type": "Rarity",
+                    "value": 323
                 }
             ]
         },
@@ -20834,8 +20838,8 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 495
+                    "trait_type": "Rarity",
+                    "value": 496
                 }
             ]
         },
@@ -20871,7 +20875,7 @@
                     "value": "Pumpkin Vision"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 373
                 }
             ]
@@ -20904,7 +20908,7 @@
                     "value": "Gooey Scriboor Visoor"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 61
                 }
             ]
@@ -20937,8 +20941,8 @@
                     "value": "Aviators"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 220
+                    "trait_type": "Rarity",
+                    "value": 219
                 }
             ]
         },
@@ -20974,7 +20978,7 @@
                     "value": "Watching Interview with the Vampire"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 30
                 }
             ]
@@ -21007,8 +21011,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 583
+                    "trait_type": "Rarity",
+                    "value": 584
                 }
             ]
         },
@@ -21044,8 +21048,8 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 409
+                    "trait_type": "Rarity",
+                    "value": 411
                 }
             ]
         },
@@ -21077,7 +21081,7 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 408
                 }
             ]
@@ -21118,7 +21122,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 128
                 }
             ]
@@ -21155,7 +21159,7 @@
                     "value": "Retarded Blood Mugger"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 5
                 }
             ]
@@ -21188,7 +21192,7 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 129
                 }
             ]
@@ -21225,7 +21229,7 @@
                     "value": "Sugar Rush"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 22
                 }
             ]
@@ -21258,8 +21262,8 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 492
+                    "trait_type": "Rarity",
+                    "value": 493
                 }
             ]
         },
@@ -21295,7 +21299,7 @@
                     "value": "Fsvgvasdv"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 159
                 }
             ]
@@ -21336,8 +21340,8 @@
                     "value": "Cyclops with Hepatitis"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 139
+                    "trait_type": "Rarity",
+                    "value": 138
                 }
             ]
         },
@@ -21369,8 +21373,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 472
+                    "trait_type": "Rarity",
+                    "value": 471
                 }
             ]
         },
@@ -21402,8 +21406,8 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 507
+                    "trait_type": "Rarity",
+                    "value": 508
                 }
             ]
         },
@@ -21435,7 +21439,7 @@
                     "value": "Zombie Eye Patch"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 83
                 }
             ]
@@ -21472,7 +21476,7 @@
                     "value": "Zombie eyes"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 146
                 }
             ]
@@ -21509,7 +21513,7 @@
                     "value": "Spooky MEV Bot Protector Blue"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 362
                 }
             ]
@@ -21542,8 +21546,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 501
+                    "trait_type": "Rarity",
+                    "value": 502
                 }
             ]
         },
@@ -21575,7 +21579,7 @@
                     "value": "Super cheap Ghost Mask"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 484
                 }
             ]
@@ -21608,7 +21612,7 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 616
                 }
             ]
@@ -21637,8 +21641,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 599
+                    "trait_type": "Rarity",
+                    "value": 600
                 }
             ]
         },
@@ -21662,8 +21666,8 @@
                     "value": "Empty Stare"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 606
+                    "trait_type": "Rarity",
+                    "value": 607
                 }
             ]
         },
@@ -21695,7 +21699,7 @@
                     "value": "Fake Devil Horns"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 215
                 }
             ]
@@ -21724,8 +21728,8 @@
                     "value": "Floored Ghost"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 610
+                    "trait_type": "Rarity",
+                    "value": 611
                 }
             ]
         },
@@ -21757,7 +21761,7 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 439
                 }
             ]
@@ -21794,7 +21798,7 @@
                     "value": "AutoSpooker Slim Edition"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 340
                 }
             ]
@@ -21823,8 +21827,8 @@
                     "value": "Death Cross Mask Mark II"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 386
+                    "trait_type": "Rarity",
+                    "value": 387
                 }
             ]
         },
@@ -21856,8 +21860,8 @@
                     "value": "Fake Devil Horns"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 445
+                    "trait_type": "Rarity",
+                    "value": 446
                 }
             ]
         },
@@ -21893,8 +21897,8 @@
                     "value": "Mask of the Dreadful Black Death"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 143
+                    "trait_type": "Rarity",
+                    "value": 142
                 }
             ]
         },
@@ -21922,8 +21926,8 @@
                     "value": "Revealed Skull"
                 },
                 {
-                    "trait_type": "Rank",
-                    "value": 546
+                    "trait_type": "Rarity",
+                    "value": 547
                 }
             ]
         },
@@ -21955,7 +21959,7 @@
                     "value": "Hollowed"
                 },
                 {
-                    "trait_type": "Rank",
+                    "trait_type": "Rarity",
                     "value": 1
                 }
             ]
