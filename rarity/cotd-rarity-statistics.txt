@@ -48,7 +48,6 @@ Eyes - Purple Paranoia | rarity score = 94.29 | frequency = 7 / 660
 Mouth - Pumpkin Teeth | rarity score = 94.29 | frequency = 7 / 660
 Relics - Sword of Discord | rarity score = 94.29 | frequency = 7 / 660
 Mouth - OY!!!! | rarity score = 94.29 | frequency = 7 / 660
-Head - Bone Crown | rarity score = 94.29 | frequency = 7 / 660
 Eyes - Orange Visoor | rarity score = 94.29 | frequency = 7 / 660
 Cloths - Presidential Suit | rarity score = 82.50 | frequency = 8 / 660
 Mouth - Genuine Jaw | rarity score = 82.50 | frequency = 8 / 660
@@ -60,6 +59,7 @@ Relics - Blessed Pile of Candy | rarity score = 82.50 | frequency = 8 / 660
 Mouth - Pumpkin Shield | rarity score = 82.50 | frequency = 8 / 660
 Mouth - 420 again | rarity score = 82.50 | frequency = 8 / 660
 Mouth - Foul mouthed | rarity score = 82.50 | frequency = 8 / 660
+Head - Bone Crown | rarity score = 82.50 | frequency = 8 / 660
 Mouth - Bad Mood | rarity score = 73.33 | frequency = 9 / 660
 Head - Wild Purple Hair | rarity score = 73.33 | frequency = 9 / 660
 Eyes - Big Eyes | rarity score = 73.33 | frequency = 9 / 660
