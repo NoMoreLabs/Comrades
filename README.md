@@ -1,6 +1,6 @@
-# Call-Data-Comrades
+# Comrades
 
-This repository contains artwork, metadata, rarity analysis, and trait statistics for two Ethscriptions collections: **Call Data Comrades** (CDC) and **Comrades of the Dead** (COTD).
+This repository contains artwork, metadata, rarity analysis, and trait statistics for Ethscriptions collections in the Comrades universe: **Call Data Comrades** (CDC), **Comrades of the Dead** (COTD), and **Pizza Comrades** (PC).
 
 ## Collections
 
@@ -13,6 +13,10 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
 
 ### Comrades of the Dead (COTD)
 - **666 total comrades**
+
+### Pizza Comrades (PC)
+- **2,222 total comrades**
+- Art merger collaboration between Boozy's Pizza Ninjas and McHexley's Call Data Comrades, baked into the NoMoreLabs universe.
 
 ## Repository Structure
 
@@ -32,10 +36,18 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
     - `cotd_32px_noBG/`: 32x32 pixel comrade images without backgrounds (666 images)
     - `cotd_800px/`: 800x800 pixel comrade images (666 images)
     - `cotd_800px_noBG/`: 800x800 pixel comrade images without backgrounds (666 images)
+  - **Pizza Comrades (PC):**
+    - `pc_64px/`: 64x64 pixel comrade images (2,222 images)
+    - `pc_64px_noBG/`: 64x64 pixel comrade images without backgrounds (2,222 images)
+    - `pc_768px/`: 768x768 pixel comrade images (2,222 images)
+    - `pc_768px_noBG/`: 768x768 pixel comrade images without backgrounds (2,222 images)
 
 - **metadata/**
   - `call-data-comrades.json`: Metadata for all Call Data Comrades (CDC).
   - `comrades-of-the-dead.json`: Metadata for all Comrades of the Dead (COTD).
+  - `pizza-comrades.json`: Metadata for all Pizza Comrades (PC).
+  - `pizza-comrades-collection-info.json`: Collection-level metadata for Pizza Comrades.
+  - `pizza-comrades-gallery.yaml`: Pizza Comrades gallery inscription metadata.
   - `cdc-grid.png`: Visual grid of all Call Data Comrades.
 
 - **rarity/**
@@ -55,22 +67,24 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
 - **Artwork**: 
   - Complete collection of Call Data Comrades images in multiple formats and sizes (32px and 800px), both with and without backgrounds, plus individual trait layers for custom rendering.
   - Comrades of the Dead images in 32px and 800px formats, both with and without backgrounds.
-- **Metadata**: Comprehensive data for each comrade in both collections (CDC and COTD), including traits and attributes.
-- **Rarity Analysis**: In-depth breakdown of attribute counts, trait frequencies, and rarity scores for both collections.
-- **Trait Statistics**: Frequency and rarity scores for all trait values, grouped by trait type.
+  - Pizza Comrades images in 64px and 768px formats, both with and without backgrounds.
+- **Metadata**: Comprehensive data for each comrade across CDC, COTD, and PC, including traits and attributes.
+- **Rarity Analysis**: In-depth breakdown of attribute counts, trait frequencies, and rarity scores for supported collections.
+- **Trait Statistics**: Frequency and rarity scores for trait values, grouped by trait type.
 
 ## Naming Convention
 
 To keep files organized and easily identifiable:
 - **`cdc-`** prefix: Call Data Comrades (9,962 items)
 - **`cotd-`** prefix: Comrades of the Dead (666 items)
+- **`pc-`** prefix: Pizza Comrades (2,222 items)
 
 ## Usage
 
 - Use the artwork files to integrate Call Data Comrades visually into your application, marketplace, or project.
 - Access trait layers to create custom combinations or generate new variations.
-- Use the metadata files to integrate comrades from either collection into your application or analysis.
-- Reference the rarity and trait stats for rarity-based sorting, filtering, or visualization.
+- Use the metadata files to integrate comrades from any collection into your application or analysis.
+- Reference the rarity and trait stats where available for rarity-based sorting, filtering, or visualization.
 
 ## License
 
