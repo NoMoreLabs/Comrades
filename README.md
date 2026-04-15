@@ -1,6 +1,6 @@
 # Comrades
 
-This repository contains artwork, metadata, rarity analysis, and trait statistics for Ethscriptions collections in the Comrades universe: **Call Data Comrades** (CDC), **Comrades of the Dead** (COTD), and **Pizza Comrades** (PC).
+This repository contains artwork, metadata, rarity analysis, and trait statistics for collections in the Comrades universe: **Call Data Comrades** (CDC), **Comrades of the Dead** (COTD), and **Pizza Comrades** (PC). CDC and COTD are Ethscriptions collections; PC is an Ordinals collection.
 
 ## Collections
 
