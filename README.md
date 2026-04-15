@@ -21,22 +21,22 @@ This repository contains artwork, metadata, rarity analysis, and trait statistic
 ## Repository Structure
 
 - **art/**
-  - **Call Data Comrades (CDC):**
+  - **`call-data-comrades/`** — Call Data Comrades (CDC):
     - `cdc_32px/`: 32x32 pixel comrade images with backgrounds
       - `generic/` (9,819 images), `honorary/` (54 images), `legends/` (50 images), `nyan/` (21 images)
     - `cdc_32px_noBG/`: 32x32 pixel comrade images without backgrounds
     - `cdc_800px/`: 800x800 pixel comrade images with backgrounds
     - `cdc_800px_noBG/`: 800x800 pixel comrade images without backgrounds
     - `cdc_trait_layers/`: Individual trait layer assets organized by category
-      - `01_Relics/`, `02_Eyes/`, `03_Mouth/`, `04_Audio Indexer Derivtations/`
+      - `01_Relics/`, `02_Eyes/`, `03_Mouth/`, `04_Audio Indexer Derivations/`
       - `05_Head/`, `06_Cloths/`, `07_Skin Stuff/`, `08_Type/`
       - `09_Extras/`, `10_Backgrounds/`, `11_Animated Traits/`
-  - **Comrades of the Dead (COTD):**
+  - **`comrades-of-the-dead/`** — Comrades of the Dead (COTD):
     - `cotd_32px/`: 32x32 pixel comrade images (666 images)
     - `cotd_32px_noBG/`: 32x32 pixel comrade images without backgrounds (666 images)
     - `cotd_800px/`: 800x800 pixel comrade images (666 images)
     - `cotd_800px_noBG/`: 800x800 pixel comrade images without backgrounds (666 images)
-  - **Pizza Comrades (PC):**
+  - **`pizza-comrades/`** — Pizza Comrades (PC):
     - `pc_64px/`: 64x64 pixel comrade images (2,222 images)
     - `pc_64px_noBG/`: 64x64 pixel comrade images without backgrounds (2,222 images)
     - `pc_768px/`: 768x768 pixel comrade images (2,222 images)

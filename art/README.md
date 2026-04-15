@@ -4,7 +4,7 @@ Artwork for all three Comrades collections, provided in multiple resolutions wit
 
 ## Directory Structure
 
-### Call Data Comrades (CDC)
+### `call-data-comrades/` — Call Data Comrades (CDC)
 
 9,959 comrades across four tiers: generic (9,819), honorary (54), legends (50), and nyan (21).
 
@@ -33,7 +33,7 @@ Individual PNG trait layer assets for compositing CDC comrades. Organized by cat
 | `10_Backgrounds/` | Backgrounds |
 | `11_Animated Traits/` | Animated Traits |
 
-### Comrades of the Dead (COTD)
+### `comrades-of-the-dead/` — Comrades of the Dead (COTD)
 
 666 comrades. All files are PNG.
 
@@ -44,7 +44,7 @@ Individual PNG trait layer assets for compositing CDC comrades. Organized by cat
 | `cotd_800px/` | 800×800 | Yes |
 | `cotd_800px_noBG/` | 800×800 | No |
 
-### Pizza Comrades (PC)
+### `pizza-comrades/` — Pizza Comrades (PC)
 
 2,222 comrades. Primarily PNG with some special comrades in SVG, AVIF, and HTML formats.
 
